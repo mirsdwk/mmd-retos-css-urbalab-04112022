@@ -1,0 +1,30 @@
+body{
+  
+}
+
+table, tr, td, th{
+
+    border: 1px solid rgb(99, 215, 215);
+    border-bottom-color: gray ;
+    border-right-color: gray;
+    box-shadow: 1px 1px 0px 0px black;
+   
+
+}
+.borde-tabla{
+    border: 0.2em solid rgb(239, 216, 186);
+    width: fit-content;
+}
+
+.titulo{
+    background-color: rgb(10, 64, 43);
+    padding-right:1em;
+    padding-left: 1em;
+    color: rgb(98, 165, 98);
+}
+.verde-claro{
+    background-color: rgb(98, 165, 98);
+}
+.verde-oscuro{
+    background-color: darkgreen;
+}
