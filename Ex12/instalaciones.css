@@ -1,0 +1,41 @@
+table, tr, td, th{
+    border: 2px solid rgb(99, 215, 215);
+    border-collapse: collapse;
+}
+table{
+      border-bottom-color: gray ;
+    border-right-color: gray;
+   
+}
+
+th{
+    color: rgb(107, 172, 107);
+    background-color: rgb(8, 43, 8);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.verde-oscuro{
+background-color:  rgb(76, 176, 76);
+}
+.verde-claro{
+    background-color:  rgb(107, 172, 107);
+}
+
+.border-bottom{
+    border: 3px solid white;
+    width: fit-content;
+    border-bottom-color: gray;
+    border-right-color: gray;
+}
+
+.border-center{
+    border: 1px solid rgb(99, 215, 215);
+}
+.border-top{
+    border:2px solid rgb(238, 210, 174);
+    width: fit-content;
+}
+
+.precio{
+    padding-left: 3em;
+}
